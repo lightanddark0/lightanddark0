@@ -1,5 +1,4 @@
 # Hi there, I'm Nông Nhựt Quy (Quy Nong) 👋
-## 🚀 Featured Projects
 
 ## 💻 Tech Stack
 
